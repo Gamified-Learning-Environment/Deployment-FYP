@@ -1,5 +1,8 @@
 # Deployment-FYP
 
+This respository was created for use within this project but proved unncessary during the development. I've kept it here for the sake of honesty. 
+
+
 This is the repository for managing the infrastructure, containerization, and orchestration of the projects various microservices. This scalable and modular approach ensures flexibility in adding new features or 
 services. allowing seamless scaling and efficient management of any quizzes, user progress, Data 
 Management.
